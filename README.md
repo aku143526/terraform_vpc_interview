@@ -1,5 +1,5 @@
 AWS VPC Creation using Terraform
-## 📁 Directory Structure
+## Directory Structure
 
 ```
 .
@@ -19,7 +19,7 @@ This repository contains a **reusable Terraform module** to provision a complete
 
 ---
 
-## ✅ Features
+## Features
 
 - Custom VPC with DNS hostnames support
 - Public and private subnets across AZs
@@ -30,7 +30,7 @@ This repository contains a **reusable Terraform module** to provision a complete
 
 ---
 
-## 🔧 Usage
+## Usage
 
 ```hcl
 module "vpc" {
@@ -63,7 +63,7 @@ module "vpc" {
 
 ---
 
-## 📤 Outputs
+## Outputs
 
 | Name                 | Description                        |
 | -------------------- | ---------------------------------- |
@@ -81,7 +81,7 @@ Make sure you have:
 * AWS CLI configured with appropriate credentials:
   `aws configure`
 
-### 🧪 Run the following commands:
+### Run the following commands:
 
 ```
 # Initialize the working directory
