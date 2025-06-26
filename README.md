@@ -48,7 +48,7 @@ module "vpc" {
 
 ---
 
-## 📥 Inputs
+## Inputs
 
 | Name                   | Type           | Description                               |
 | ---------------------- | -------------- | ----------------------------------------- |
@@ -73,7 +73,7 @@ module "vpc" {
 
 ---
 
-## ▶️ Getting Started
+## Getting Started
 
 Make sure you have:
 
